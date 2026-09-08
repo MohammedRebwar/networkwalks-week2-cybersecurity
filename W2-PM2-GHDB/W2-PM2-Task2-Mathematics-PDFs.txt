@@ -1,0 +1,25 @@
+# W2-PM2 — Task 2: Mathematics PDF Listings
+
+**Task:** Find 10 listings containing downloadable mathematics ebooks/PDFs.
+
+**Google Dork Used:**
+`intitle:index.of "parent directory" mathematics pdf`
+
+|  # | Listing / Website                                         | Relevant Dork                                         | Example Mathematics PDF / Content                                                             | Username / Password |
+| -: | --------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------- |
+|  1 | `erewhon.superkuh.com/library/Math/`                      | `intitle:index.of "parent directory" mathematics pdf` | **A Concise Introduction to Mathematical Logic** and other mathematics PDFs                   | None                |
+|  2 | `education.giakonda.org.uk/Maths/`                        | `intitle:index.of "parent directory" mathematics pdf` | **Additional_Mathematics__Pure_and_Applied.pdf**                                              | None                |
+|  3 | `unm.edu/~megrad/Math/`                                   | `intitle:index.of "parent directory" mathematics pdf` | **Mathematics-2017.pdf** and other mathematics PDFs                                           | None                |
+|  4 | `jsoftware.com/books/pdf/`                                | `intitle:index.of "parent directory" mathematics pdf` | **algebra.pdf** and other mathematics books/PDFs                                              | None                |
+|  5 | `ochicken.net/library/Mathematics/`                       | `intitle:index.of "parent directory" mathematics pdf` | Mathematics collections including **Abstract Algebra, Linear Algebra, Mathematical Analysis** | None                |
+|  6 | `netlib.org/math/docpdf/`                                 | `intitle:index.of "parent directory" mathematics pdf` | Mathematics documentation and PDF resources                                                   | None                |
+|  7 | `maths.nuigalway.ie/~rquinlan/linearalgebra/`             | `intitle:index.of "parent directory" mathematics pdf` | **1718-MA500-1-outline.pdf**                                                                  | None                |
+|  8 | `learn-fo.com/FYUG mathematics solutions/`                | `intitle:index.of "parent directory" mathematics pdf` | Mathematics solution PDFs                                                                     | None                |
+|  9 | `inis.jinr.ru/sl/vol2/Mathematics/Math.Encyclopedia/Pdf/` | `intitle:index.of "parent directory" mathematics pdf` | **Index.pdf**, **Math_V1.pdf** and other mathematics encyclopedia PDFs                        | None                |
+| 10 | `maths.dur.ac.uk/papers/2025/`                            | `intitle:index.of "parent directory" mathematics pdf` | **MATH1031-2025-Discrete Mathematics-exam.pdf**, **MATH1051-2025-Analysis I-exam.pdf**        | None                |
+
+**Evidence:**
+Screenshots for the 10 listings are saved separately and correspond to the entries above.
+
+**Note:**
+`sscmotala.ac.in/pdf/` was tested but excluded because the listing was not accessible.
