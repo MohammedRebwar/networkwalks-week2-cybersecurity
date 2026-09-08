@@ -1,0 +1,9 @@
+root@kali:~# nslookup networkwalks.com
+Server:		192.XXX.XXX.X
+Address:	192.168.XXX.2#XX
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.2X2.XXX.XXX
+
+root@kali:~# 
